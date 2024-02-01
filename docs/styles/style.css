@@ -10,9 +10,7 @@ a{
 
 body{
    
-
     background: black;
-
     margin: 0;
     padding: 0px;
     max-width: 98vw;
@@ -41,9 +39,7 @@ table,th,td{
     }    
 }
 
-@media (min-width:1500px){
-    
-}
+
 
 h1{
     border-radius: 20px;
